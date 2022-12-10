@@ -18,7 +18,7 @@ function details() {
 -   You can view my Linkedin profile <a href="https://www.linkedin.com/in/deniz-askar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="theahmetgg" height="20" width="20" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=theahmetgg&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=deniaskr&color=brightgreen)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
