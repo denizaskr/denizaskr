@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Blog-Project](https://github.com/denizaskr/Blog-Project)
 
-- 🌱 I’m currently learning **.Net , Angular**
+- 🌱 I’m currently learning **Next.js , React**
 
-- 💬 Ask me about **C#, .Net**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **denizaskar05@gmail.com**
 
